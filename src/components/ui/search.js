@@ -10,7 +10,7 @@ const Search = ({ handleChange }) => {
     <div className="container">
       <form>
         <div className="form-group">
-          <input className="form-control mb-3" value={ state } onChange={ onChange } placeholder="Search here..."/>
+          <input className="form-control mb-3" value={ state } onChange={ onChange } placeholder="Search..."/>
         </div>
     </form>
     </div>
